@@ -2,4 +2,4 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=9507ym)](https://solved.ac/9507ym)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![CodeForces Profile](http://cf.leed.at?id={handle})](https://codeforces.com/profile/{handle})
